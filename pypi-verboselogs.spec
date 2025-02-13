@@ -7,7 +7,7 @@
 #
 Name     : pypi-verboselogs
 Version  : 1.7
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/29/15/90ffe9bdfdd1e102bc6c21b1eea755d34e69772074b6e706cab741b9b698/verboselogs-1.7.tar.gz
 Source0  : https://files.pythonhosted.org/packages/29/15/90ffe9bdfdd1e102bc6c21b1eea755d34e69772074b6e706cab741b9b698/verboselogs-1.7.tar.gz
 Summary  : Verbose logging level for Python's logging module
